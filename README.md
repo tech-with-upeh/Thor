@@ -30,13 +30,10 @@
 
 ```
 git clone https://github.com/tech-with-upeh/Thor
-
-```
-  <li>2. Navigate to directory </li>
-```
 cd Thor
 
 ```
+
 </ul>
 
 <h1> Usage </h1>
